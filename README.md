@@ -19,8 +19,8 @@
 </div>
 
 ###
-
 <img align="right" height="180" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="flutter gif"/>
+<img align="right" height="180" src="https://github.com/user-attachments/assets/055c710b-2b0f-428a-8ebd-1b622a6ba5dd" alt="flutter gif"/>
 
 ###
 
@@ -76,4 +76,3 @@ I enjoy building **interactive, responsive Flutter applications** and continuous
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NOURHAN02&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 
 </div>
-
