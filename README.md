@@ -26,7 +26,7 @@
 
 <div align="left">
   
-I’m a **Junior Flutter Developer** passionate about **mobile apps, UI/UX, and clean code**.  
+I’m a ** Flutter Developer** passionate about **mobile apps, UI/UX, and clean code**.  
 I enjoy building **interactive, responsive Flutter applications** and continuously improving my skills.  
 
 - 🔭 **Currently working on:** Flutter mobile apps & dashboards  
