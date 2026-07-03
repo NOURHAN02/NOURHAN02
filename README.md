@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Nourhan Khaled</h1>
-<h3 align="center">Junior Flutter Developer</h3>
+<h3 align="center"> Flutter Developer</h3>
 
 <div align="center">
 
@@ -31,7 +31,7 @@ I enjoy building **interactive, responsive Flutter applications** and continuous
 
 - 🔭 **Currently working on:** Flutter mobile apps & dashboards  
 - 🌱 **Currently learning:** Advanced Flutter concepts 
-- 💼 **Open to:** Junior Flutter Developer roles 
+- 💼 **Open to:** Flutter Developer roles 
 - 📫 **Reach me at:** [norhan202125050nnnn@gmail.com](mailto:norhan202125050nnnn@gmail.com)
 
 </div>
